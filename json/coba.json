@@ -1,0 +1,12 @@
+[
+{
+    "nama" : "ikbal",
+    "umur" : 20,
+    "nrp" : "07761325",
+    "tidaklulus" : false,
+    "hobby" : [
+        "membaca",
+        "ngopi"
+    ]
+}
+]
